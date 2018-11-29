@@ -2,7 +2,7 @@
 
 # Portfolio Project
 
-![Carcassonne, Mary Paul, Carcassonne, France(https://res.cloudinary.com/mpauldesigns/image/upload/v1543509241/_8_DSC0487.jpg)
+![Carcassonne, Mary Paul, Carcassonne, France](https://res.cloudinary.com/mpauldesigns/image/upload/v1543509241/_8_DSC0487.jpg)
 
 >"Hope is not a strategy. Luck is not a factor. Fear is not an option."
 
