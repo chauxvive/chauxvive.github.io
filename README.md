@@ -32,4 +32,4 @@ HTML, CSS, and JavaScript
 
 ### Future upgrades:
 
-Because I built this mobile first and have only recently started viewing it on larger desktops, I definitely see room for improvement in styling at larger screen sizes. I also need to finish project description pages. I'll use JavaScript to have them pop open on click to give lots of information on exactly what I did and how. At least for now my github ReadMes give some information.
+As some feedback I've gotten from other devs confirms, I need to finish project description pages so it's very clear exactly what I did for each project and what each project listed was. I'll use JavaScript to have them pop open on click to give lots of information on exactly what I did and how. At least for now my github ReadMes give some information.
