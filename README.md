@@ -2,7 +2,7 @@
 
 # Portfolio Project
 
-![Mary Paul](https://res.cloudinary.com/mpauldesigns/image/upload/v1522004427/mp_blog.jpg)
+![A green and winding path, Mary Paul, Portland, Oregon](https://res.cloudinary.com/mpauldesigns/image/upload/v1523202335/_4_DSC0273.jpg)
 
 >"Hope is not a strategy. Luck is not a factor. Fear is not an option."
 
@@ -28,7 +28,7 @@ Although I'm only now seeking a fulltime position as a developer, I've been doin
 
 ### Technologies Used:
 
-HTML, CSS, and JavaScript
+HTML5, CSS3, and JavaScript
 
 ### Future upgrades:
 
