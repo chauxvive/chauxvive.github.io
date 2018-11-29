@@ -16,20 +16,20 @@ This is my one page scrolling portfolio from Free Code Camp's Responsive Design 
 
 ### The Problem:
 
-Create a one-page "Tribute Page" for a chosen hero in the style of [this site]( https://codepen.io/freeCodeCamp/full/zNqgVx).
+Create a one-page scrolling portfolio in the style of [this site]( https://codepen.io/freeCodeCamp/full/zNBOYG).
   
-* Must complete a series of [user stories](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+* Must complete a series of [user stories](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
-* Must be aesthetically pleasing and use only html and css
+* Must be aesthetically pleasing and use HTML, CSS, and vanilla JavaScript
 
 ### Who am I?
 
-Richard Feynman was an incredible polymath and insatiably curious. As a teacher, I have studied his techniques and lessons and appreciate that one doesn't really understand a subject until one can break it down and explain it in simple words. In his unusual methods, troublemaking antics, and offbeat sense of humor I find a kindred spirit.
+Although I'm only now seeking a fulltime position as a developer, I've been doing freelance development and coding for several years, mostly for my own projects and the Virtual Costume Museum of Uconn. In the meanwhile I've been a theater designer, technician, and professor and am used to managing tight teams on difficult projects with impossible deadlines. My theater and teaching background means I'm an excellent public speaker and communicator used to breaking down complicated subjects to simple parts. As a theater technician I have worked for Yale University as Master Electrician, the University of New Haven as Technical Director of the Theater Department and faculty, Tony Award-Winning Hartford Stage on pre-broadway productions, Long Wharf, and many others. 
 
 ### Technologies Used:
 
-Simple html with an open-source digital newspaper stylesheet and Bootstrap.
+HTML, CSS, and JavaScript
 
 ### Future upgrades:
 
-Now that I've had more experience with responsive design and flexbox, I'd like to make this cleaner on different screen-sizes and optimized for mobile. I would add more whitespace and tweak the scales between elements. I would also love to add a Feynman video, booklist, online course reference, or sound clip.
+Because I built this mobile first and have only recently started viewing it on larger desktops, I definitely see room for improvement in styling at larger screen sizes. I also need to finish project description pages. I'll use JavaScript to have them pop open on click to give lots of information on exactly what I did and how. At least for now my github ReadMes give some information.
